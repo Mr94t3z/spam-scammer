@@ -10,13 +10,13 @@ Requirements:
 
 > Run Command
 
-```
+```bash
 python app.py
 ```
 
 or
 
-```
+```bash
 python3 app.py
 ```
 
@@ -26,6 +26,6 @@ Requirements:
 
 > Run Command
 
-```
+```bash
 node app.js
 ```
