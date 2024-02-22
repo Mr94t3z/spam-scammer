@@ -8,7 +8,7 @@ I've created this code with `2 programming languages` both of em is same, you gu
 Requirements :
 - Python v3+
 
-Run Command
+> Run Command
 
 ```
 python app.py
@@ -24,7 +24,7 @@ python3 app.py
 Requirements :
 - Node JS v12+
 
-Run Command
+> Run Command
 
 ```
 node app.js
