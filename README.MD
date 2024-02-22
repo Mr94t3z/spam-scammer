@@ -1,3 +1,7 @@
+> Case - Undangan Pernikahan.apk (SCAM)
+
+![Undangan Pernikahan](images/undangan_pernikahan.jpeg)
+
 I've created this code with `2 programming languages` both of em is same, you guys can try it to start `spamming` the scammer!
 
 # Python Version
