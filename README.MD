@@ -5,8 +5,8 @@
 I've created this code with `2 programming languages` both of em is same, you guys can try it to start `spamming` the scammer!
 
 # Python Version
-Requirements :
-- Python v3+
+Requirements:
+- [Python v3+](https://www.python.org/)
 
 > Run Command
 
@@ -20,9 +20,9 @@ or
 python3 app.py
 ```
 
-# JavaScipt Version
-Requirements :
-- Node JS v12+
+# JavaScript Version
+Requirements:
+- [Node.js v12+](https://nodejs.org/)
 
 > Run Command
 
