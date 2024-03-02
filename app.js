@@ -29,7 +29,7 @@ exec('npm list axios --depth=0', (error, stdout) => {
 function sendMessage() {
   const axios = require('axios');
   var message = "KERJA YANG HALAL OM!";
-  var url = `https://api.telegram.org/bot7173431479:AAG9huy5YQGtYCemdwUbQJw3avs-zRz4jno/sendMessage?parse_mode=markdown&chat_id=7130934056&text=${message}`;
+  var url = `https://api.telegram.org/bot7037128599:AAHUOPNUXxHupkBzHMRo0jDJQB5Bz_yoB80/sendMessage?parse_mode=markdown&chat_id=6762706048&text=${message}`;
 
   axios.get(url)
     .then(response => {

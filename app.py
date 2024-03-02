@@ -11,7 +11,7 @@ except ImportError:
 
 def send_message():
     message = "YOUR BOT HAS BEEN HACKED!!!"
-    url = f"https://api.telegram.org/bot7173431479:AAG9huy5YQGtYCemdwUbQJw3avs-zRz4jno/sendMessage?parse_mode=markdown&chat_id=7130934056&text={message}"
+    url = f"https://api.telegram.org/bot7037128599:AAHUOPNUXxHupkBzHMRo0jDJQB5Bz_yoB80/sendMessage?parse_mode=markdown&chat_id=6762706048&text={message}"
     try:
         response = requests.get(url)
         response.raise_for_status()  # Raise an exception for HTTP errors
